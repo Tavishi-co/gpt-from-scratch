@@ -1,0 +1,10 @@
+The transformer is a neural network architecture.
+Transformers use attention to process sequences.
+A language model predicts the next token.
+Deep learning models learn useful representations.
+Attention allows tokens to interact with each other.
+Neural networks learn patterns from data.
+Machine learning is used in many applications.
+Artificial intelligence systems can understand language.
+Good models require data, computation, and optimization.
+Large language models generate text one token at a time.
